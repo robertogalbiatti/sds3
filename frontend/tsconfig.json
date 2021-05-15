@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src", //avisando React para orientar que os arquivos importados estão ali
     "target": "es5",
     "lib": [
       "dom",
